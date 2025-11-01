@@ -1,4 +1,9 @@
-# Granitepi-4-Nano
+<h1 align="center">Granitepi-4-Nano</h1>
+
+<p align="center">
+  <img src="https://github.com/Jewelzufo/granitepi-4-nano/blob/main/granitepi4.jpg?raw=true" width="600" height="400">
+</p>
+
 
 **Date**: 11-01-2025 |
 **Version**: 1.0
