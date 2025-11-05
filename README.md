@@ -22,7 +22,7 @@
 
 **Run a full-featured large language model entirely on your Raspberry Pi 5 with zero cloud dependency.**
 
-This repository contains a complete, beginner-friendly guide to setting up **IBM Granite 4.0 (350M)** on a Raspberry Pi 5 using **Ollama** for 100% local, private AI inference.
+This repository contains a complete, beginner-friendly guide to setting up **IBM Granite 4.0 (350M)-h** on a Raspberry Pi 5 (8GB) using **Ollama** for 100% local, private AI inference.
 
 ## ✨ Highlights
 
