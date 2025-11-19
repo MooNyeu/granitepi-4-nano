@@ -46,6 +46,14 @@ This repository contains a complete, beginner-friendly guide to setting up **IBM
 | **License** | Apache 2.0 (Open Source) |
 | **Languages** | 12+ (English, Spanish, French, German, Japanese, etc.) |
 
+## System Architecture
+
+<div align="center">
+  <img src="https://github.com/Jewelzufo/granitepi-4-nano/blob/main/architecture-pi.jpg?raw=true" alt="system diagram" height="900" width="900">
+</div>
+
+---
+
 ## 🎯 Quick Start (TL;DR)
 
 ```bash
